@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @bLaCkwEw
+- 🌱 I’m currently learning ... JavaScript
+- 💞️ I’m looking to collaborate on ... any web development project
+- 📫 How to reach me ... bLaCkwEw@pm.me
