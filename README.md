@@ -1,5 +1,4 @@
 - 👋 Hi, I’m [@bLaCkwEw](https://github.com/blackwew)
-- 🌱 I’m currently learning ... JavaScript
-- 💞️ I’m looking to collaborate on ... any web development project
-- 📫 How to reach me ... bLaCkwEw[at]pm.me
+- 🌱 I’m currently learning ... ♥️Svelte♥️
+- 📫 Mail me at bLaCkwEw[at]pm.me
 - 🌐 Personal website ... [FuckChro.me](https://fuckchro.me)
