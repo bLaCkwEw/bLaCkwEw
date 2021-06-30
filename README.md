@@ -1,4 +1,10 @@
-- 👋 Hi, I’m [@bLaCkwEw](https://github.com/blackwew)
-- 🌱 I’m currently learning ... ♥️Svelte♥️
-- 📫 Mail me at bLaCkwEw[at]pm.me
-- 🌐 Personal website ... [FuckChro.me](https://fuckchro.me)
+## 👋 Hello World! 
+
+I'm bLaCkwew, a Front end web developer based in 🇷🇴 Romania.
+
+- 🌱 Cureently learning ♥️SvelteJS♥️
+- ℹ️ Interested in all things related to the web
+- 🐦 DM me on twitter [@bLaCkwEwGG](https://twitter.com/bLaCkwEwGG/)
+- 📫 Mail me at [bLaCkwEw@pm.me](mailto:blackwew@pm.me)
+- 🌍 Have a look at my website [https://fuckchro.me](https://fuckchro.me)
+
