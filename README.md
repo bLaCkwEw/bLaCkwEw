@@ -1,6 +1,6 @@
 ## 👋 Hello World! 
 
-I'm bLaCkwew, a Front end web developer based in 🇷🇴 Romania.
+I'm bLaCkwEw, a Front end web developer based in 🇷🇴 Romania.
 
 - 🌱 Cureently learning ♥️SvelteJS♥️
 - ℹ️ Interested in all things related to the web
