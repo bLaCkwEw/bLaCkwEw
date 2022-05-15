@@ -1,7 +1,6 @@
+![Hello Word👋! I'm bLaCkwEw](https://raw.githubusercontent.com/bLaCkwEw/bLaCkwEw/master/img/header-img.png)
 
-## 👋 Hello World! 
-
-I'm bLaCkwEw, a Front end web developer based in 🇷🇴 Romania.
+<br>
 
 - 🌱 Cureently learning ḛ̷̅v̷̹̬̈́͜ẹ̴̗̬̪͕̻̀̑͑̎͌̓r̷̡͖̱̹̪͆͗͐̈̚y̴̧̪͛͊͒̊̚t̶̖͎͍̯̄̑̏́̕ḧ̸̭̫̐̆̀̿̕i̷̛̘̻̲̒́̍͝n̷̩͙͔̰̽͗͊̐g̸͇̣̑͠
 - ℹ️ Interested in all things related to the web
