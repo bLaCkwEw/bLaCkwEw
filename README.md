@@ -1,8 +1,9 @@
 ![Hello Word👋! I'm bLaCkwEw](https://raw.githubusercontent.com/bLaCkwEw/bLaCkwEw/master/img/header-img.png)
 
-<br>
+[![bLaCkwEw's GitHub stats](https://github-readme-stats.vercel.app/api?username=bLaCkwEw&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/bLaCkwEw)
 
-- 🌱 Cureently learning ḛ̷̅v̷̹̬̈́͜ẹ̴̗̬̪͕̻̀̑͑̎͌̓r̷̡͖̱̹̪͆͗͐̈̚y̴̧̪͛͊͒̊̚t̶̖͎͍̯̄̑̏́̕ḧ̸̭̫̐̆̀̿̕i̷̛̘̻̲̒́̍͝n̷̩͙͔̰̽͗͊̐g̸͇̣̑͠
-- ℹ️ Interested in all things related to the web
+- 🌱 Cureently studying marketing 
+- ℹ️ Interested in new and upcoming technologies
 - 🐦 DM me on twitter [@bLaCkwEwGG](https://twitter.com/bLaCkwEwGG/)
-- 🌍 My website [https://cocotier.ro](https://cocotier.ro)
+- 🌍 Visit my website [https://cocotier.ro](https://cocotier.ro) <sub>Work in progress</sub>
+
