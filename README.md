@@ -3,5 +3,5 @@
 - 🌱 Studying marketing 
 - ❤️ Svelte & Astro
 - 🐦 [@bLaCkwEwGG](https://twitter.com/bLaCkwEwGG/)
-- 🌍 [https://cocotier.ro](https://cocotier.ro) <sub>Work in progress</sub>
+- 🌍 [https://cocotier.ro](https://cocotier.ro)
 
